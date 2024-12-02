@@ -9,7 +9,7 @@ TELEFE ,telefe.png,https://nebunexa.co/extencion.html?get=VGVsZWZlSEQ=&lang=1&st
 TV PUBLICA ,tvpublica.png,https://nebunexa.co/extencion.html?get=Q2FuYWw3&lang=1&start=true
 EL TRECE ,eltrece.png,https://nebunexa.co/extencion.html?get=QXJ0ZWFySEQ&lang=1&start=true
 EL NUEVE ,nueve.png,https://nebunexa.co/extencion.html?get=Q2FuYWw5&lang=1&start=true
-ENCUENTRO ,encuentro.png,https://nebunexa.co/extencion.html?get=RW5jdWVudHJv&lang=1&start=true
+ENCUENTRO ,encuentro.png ,https://nebunexa.co/extencion.html?get=RW5jdWVudHJv&lang=1&start=true
 CIUDAD MAGAZINE,ciudad.png,https://nebunexa.co/extencion.html?get=TWFnYXppbmU=&lang=1&start=true
 VOLVER,volver.png,https://nebunexa.co/extencion.html?get=Vm9sdmVy&lang=1&start=true
 CANAL DE LA CIUDAD  ,canalciudad.png,https://nebunexa.co/extencion.html?get=Q2FuYWxfZGVfbGFfY2l1ZGFk&lang=1&start=true
@@ -75,9 +75,6 @@ FILM & ARTS,film-arts.png,https://nebunexa.co/extencion.html?get=RmlsbV9BcnRz&la
 A&E,ae.png,https://nebunexa.co/extencion.html?get=QUVIRA==&lang=1&start=true
 DW,dw.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
 TELEMAX,telemax.png,https://nebunexa.co/extencion.html?get=VGVsZW1heA&lang=1&start=true
-TELEMUNDO,telemundo.png,https://thedaddy.to/tele/stream-131.php
-UNIVISION,univision.png,https://thedaddy.to/tele/stream-132.php
-UNIMAS,unimas.png,https://thedaddy.to/tele/stream-133.php
 GARAGE TV,garage.png,https://nebunexa.co/extencion.html?get=RWxfR2FyYWdl&lang=1&start=true
 TNT NOVELAS,tntnovelas.png,https://nebunexa.co/extencion.html?get=VEJT&lang=1&start=true
 NOVELAS INOLVIDABLES,plutonovelas.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://ov.ottera.tv/channels/cnm_niv/master550000.m3u8;session=cnm_niv
@@ -88,7 +85,6 @@ NOVELAS TURCAS,novelasturcas.png,chrome-extension://opmeopcambhfimffbomjgemehjkb
 CANAL DE LAS ESTRELLAS,estrellas.png,https://nebunexa.co/extencion.html?get=Q2FuYWxfZGVfbGFzX2VzdHJlbGxhcw==&lang=1&start=true
 HOLA TV,hola.png,https://nebunexa.co/extencion.html?get=SG9sYV9UVg==&lang=1&start=true
 LA TELE,latele.png,https://nebunexa.co/extencion.html?get=TEFfVEVMRV9DNA==&lang=1&start=true
-CARACOL TV,caracoltv.png,https://streamtp1.com/global2.php?stream=caracoltv
 NET TV,nettv.png,https://nebunexa.co/extencion.html?get=TmV0X1RW&lang=1&start=true
 NPY,npy.png,https://nebunexa.co/extencion.html?get=Tk9USUNJQVNfUFlfQzQ=&lang=1&start=true
 TV CHILE,tv-chile.png,https://nebunexa.co/extencion.html?get=VHZfQ2hpbGU=&lang=1&start=true
@@ -107,12 +103,9 @@ KARIBEÑA,karibeña.png,https://live-player.egostreaming.pe/karibenatv_685a-pe-a
 ESPN,espn.png,https://nebunexa.co/extencion.html?get=RVNQTjJIRA&lang=1&start=true
 TYC SPORTS,tyc.png,https://nebunexa.co/extencion.html?get=VHlDU3BvcnQ&lang=1&start=true
 TNT Sports,tntsports.png,https://nebunexa.co/extencion.html?get=VE5UX1Nwb3J0c19IRA&lang=1&start=true
-TNT Sports 1,tntsports1.png,https://thedaddy.to/tele/stream-31.php
-TNT Sports 2,tntsports2.png,https://thedaddy.to/tele/stream-32.php
 TYC Sports,tyc.png,https://nebunexa.co/extencion.html?get=VHlDU3BvcnQ&lang=1&start=true&start=true
 FOX Sports 2,foxsports2.png,https://nebunexa.co/extencion.html?get=Rm94U3BvcnRzMkhE&lang=1&start=true
 FOX Sports 3,foxsports3.png,https://nebunexa.co/extencion.html?get=Rm94U3BvcnRzM0hE&lang=1&start=true
-FOX Sports Premium,foxpr.png,https://streamtp1.com/global1.php?stream=foxsportspremium
 DEPORTV,deportv.png,https://nebunexa.co/extencion.html?get=RGVwb3JUVkhE&lang=1&start=true
 VISION TV,VISION.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 LA HERMANDAD SALSERA,HERMANDAD.pnG,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
@@ -152,20 +145,3 @@ DISNEY CHANNEL,disneychannel.png,https://nebunexa.co/extencion.html?get=RGlzbmV5
 CARTOONITO,cartoonito.png,https://nebunexa.co/extencion.html?get=Qm9vbWVyYW5n&lang=1&start=true
 CARTOON NETWORK,cartoonnetwork.png,https://nebunexa.co/extencion.html?get=Q2FydG9vbk5ldHdvcms=&lang=1&start=true
 ADULT SWIM,adult-swim@2x.png,https://nebunexa.co/extencion.html?get=QWR1bHRfU3dpbQ==&lang=1&start=true
-COPS,COPS.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://rightsboosterltd-cops-1-eu.plex.wurl.tv/2000.m3u8
-VOLVER AL FUTURO,volver1.png,https://d000d.com/e/r8ddrs5pvbm5
-VOLVER AL FUTURO 2,volver2.png,https://d000d.com/e/h8brdb71wsi4
-VOLVER AL FUTURO 3,volver3.png,https://d000d.com/e/3thteivjw0to
-DIOSES DE EGIPTO,dioses.png,https://d000d.com/e/bzb48wqodl4v
-ET EL EXTRATERRESTRE,et.png,https://d000d.com/e/xyc1rnm2cm0g
-JUMANJI,jumanji.png ,https://d000d.com/e/kax3sjhsw2nk
-MILAGRO EN LA CALLE 8,milagro.png,https://ok.ru/videoembed/2501336828562
-EL SECRETO DE MI EXITO,secreto.png,https://ok.ru/videoembed/1143021505240
-PESADILLA,pesadilla.png,https://uqload.ws/embed-lhf773r1hfeo.html
-LOS GOONIES,goonies.png,https://mixdrop.ps/e/4btk5fj/
-GREMLIMS,gremlims.png,https://uqload.com/embed-pgfo6ukyabcq.html
-GRENLIMS 2,gremlims2.png,https://ok.ru/videoembed/4677345282761
-FLASH GORDON,flashgordon.png,https://ok.ru/videoembed/42869459522
-TITANIC,titanic.png,https://brittneystandardwestern.com/e/kh5vw2kuuklw
-DOCTOR HOLLIWOOD,DOC-HOLLIWOOD.PNG,https://dood.li/e/azofhxo93zna
-GHOST,GHOST.PNG,https://dood.li/e/kpd1okyvcoko
