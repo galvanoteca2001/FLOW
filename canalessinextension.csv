@@ -67,7 +67,7 @@ A3CINE,a3cine.png,https://nebunexa.co/cvatt.php?get=QTNfQ2luZQ==&lang=1&start=tr
 ENTERTAIMENT,entertainment.png,https://nebunexa.co/cvatt.php?get=RV9FbnRlcnRhaW5tZW50X1RlbGV2aXNpb24=&lang=1&start=true
 EURO CHANNEL,euro.png,https://nebunexa.co/cvatt.php?get=RXVyb2NoYW5uZWw=&lang=1&start=true
 EUROPA EUROPA,europa.png,https://nebunexa.co/cvatt.php?get=RXVyb3BhX0V1cm9wYQ&lang=1&start=true
-EURONEWS,euronews.png,https://nebunexa.co/cvatt.php?get=RXVyb25ld3M=
+EURONEWS,euronews.png,https://nebunexa.co/cvatt.php?get=RXVyb25ld3M=&lang=1&start=true
 TVE,tve.png,https://nebunexa.co/cvatt.php?get=VFZfRXNwYW5h&lang=1&start=true
 ANTENA 3,antena3int.png,https://nebunexa.co/cvatt.php?get=QW50ZW5hXzM=&lang=1&start=true
 TV5,tv5monde.png,https://nebunexa.co/cvatt.php?get=VFY1X01vbmRl&lang=1&start=true
@@ -88,15 +88,12 @@ LA TELE,latele.png,https://nebunexa.co/cvatt.php?get=TEFfVEVMRV9DNA==&lang=1&sta
 NET TV,nettv.png,https://nebunexa.co/cvatt.php?get=TmV0X1RW&lang=1&start=true
 NPY,npy.png,https://nebunexa.co/cvatt.php?get=Tk9USUNJQVNfUFlfQzQ=&lang=1&start=true
 TV CHILE,tv-chile.png,https://nebunexa.co/cvatt.php?get=VHZfQ2hpbGU=&lang=1&start=true
-WILLAX,Willax_Televisión.png,https://streamplayweb.com/tv2/willax.php
 TV Peru,tvperu.png,https://irtp-player.iblups.com/tvperuhd
-LATINA,latina.png,https://rudo.video/live/latina
-QT PERU,qt.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://servilive.com:3753/live/qosqotimeslive.m3u8
+LATINA,latina.png,https://rudo.video/live/latina&lang=1&start=true
 KARIBEÑA,karibeña.png,https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/embed.html
 ESPN,espn.png,https://nebunexa.co/cvatt.php?get=RVNQTjJIRA&lang=1&start=true
 TYC SPORTS,tyc.png,https://nebunexa.co/cvatt.php?get=VHlDU3BvcnQ&lang=1&start=true
 TNT Sports,tntsports.png,https://nebunexa.co/cvatt.php?get=VE5UX1Nwb3J0c19IRA&lang=1&start=true
-LA HERMANDAD SALSERA,HERMANDAD.pnG,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
 HTV,htv.png,https://nebunexa.co/cvatt.php?get=SFRW&lang=1&start=true
 MUSIC TOP,musictop.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 CM,cm.png,https://nebunexa.co/cvatt.php?get=Q00=&lang=1&start=true
@@ -108,7 +105,6 @@ MTV 00S,mtv00s.png,https://nebunexa.co/cvatt.php?get=TVRWMDA=&lang=1&start=true
 MTV 90S,mtv90s.png,https://nebunexa.co/canal/?id=MTV_90S&lang=1&start=true
 MTV HITS,mtvhits.png,https://nebunexa.co/cvatt.php?get=TVRWX0hpdHM=&lang=1&start=true
 VCLASSIC TROPICAL,vclassictropical.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w205162170.m3u8
-VCLASSIC,vclassic.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w6735126.m3u8
 MAGIC TV,MAGIC.pnG,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://bss1.neterra.tv/magictv/magictv.m3u8
 TV VEVO,VEVO.PNG,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 TV VEVO RETRO ROCK,VEVORETROROCK.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -116,7 +112,6 @@ TV VEVO 90S,VEVO90.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages
 TV VEVO 70S,VEVO70.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 VINTAGE MUSIC,vintage.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 IMPACT TV Dance,impact.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://online.tvimpact.live/hls/dancetv.m3u8
-NOW ROCK,nowrock.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 NOW 80s,now80s.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 NOW 70s,now70s.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 PAKA PAKA,Pakapaka.png,https://nebunexa.co/cvatt.php?get=UEFLQV9QQUtB&lang=1&start=true
