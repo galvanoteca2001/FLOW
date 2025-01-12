@@ -38,7 +38,7 @@ QUIERO TV,quiero.png,https://zzcointv.xyz/html/cvatt.html?get=UXVpZXJvX0hE
 TV5,tv5monde.png,https://zzcointv.xyz/html/cvatt.html?get=VFY1X01vbmRl
 TELEMAX,telemax.png,https://zzcointv.xyz/html/cvatt.html?get=VGVsZW1heA
 TV CHILE,tv-chile.png,https://zzcointv.xyz/html/cvatt.html?get=VHZfQ2hpbGU=
-LATINA,latina.png,https://clarovideo.sdfgnksbounce.com/latina.php?get=aHR0cHM6Ly9saXZlLWV2ZzI1LnR2MzYwLmJpdGVsLmNvbS5wZS9iaXRlbC9sYXRpbmEvcGxheWxpc3QubTN1OA==
+LATINA,latina.png,https://clarovideo.sdfgnksbounce.com/latina.php?get=aHR0cHM6Ly9saXZlLWV2ZzI1LnR2MzYwLmJpdGVsLmNvbS5wZS9iaXRlbC9sYXRpbmEvcGxheWxpc3QubTN1OA==&lang=1&start=true
 TV CIUDAD,tv-ciudad.png,https://zzcointv.xyz/html/cvatt.html?get=VGV2ZV9DaXVkYWQ=
 STAR CHANNEL,star.png,https://zzcointv.xyz/html/cvatt.html?get=Rk9YSEQ=
 HBO,hbo.png,https://zzcointv.xyz/html/cvatt.html?get=SEJPSEQ=
@@ -58,11 +58,11 @@ SPACE,space.png,https://zzcointv.xyz/html/cvatt.html?get=U3BhY2U=
 AMC,amc.png,https://zzcointv.xyz/html/cvatt.html?get=QU1D
 AXN,axn.png,https://zzcointv.xyz/html/cvatt.html?get=QVhOSEQ=
 UNIVERSAL TV,universalpremiere.png,https://zzcointv.xyz/html/cvatt.html?get=VW5pdmVyc2FsX0NoYW5uZWxfSEQ=
-UNIVERSAL CINEMA,universalcinema.png,https://nebunexa.co/cvatt.php?get=VW5pdmVyc2FsX0NpbmVtYQ==
-UNIVERSAL CRIME,universalcrime.png,https://nebunexa.co/cvatt.php?get=dW5pdmVyc2FsX0NyaW1l
-UNIVERSAL COMEDY,universalcomedy.png,https://nebunexa.co/cvatt.php?get=VW5pdmVyc2FsX0NvbWVkeQ==
-UNIVERSAL REALITY,universalreality.png,https://nebunexa.co/cvatt.php?get=VW5pdmVyc2FsX1JlYWxpdHk=
-UNIVERSAL PREMIER,universalpremiere.png,https://nebunexa.co/cvatt.php?get=VW5pdmVyc2FsX1ByZW1pZXJl
+UNIVERSAL CINEMA,universalcinema.png,https://nebunexa.co/cvatt.php?get=VW5pdmVyc2FsX0NpbmVtYQ==&lang=1&start=true
+UNIVERSAL CRIME,universalcrime.png,https://nebunexa.co/cvatt.php?get=dW5pdmVyc2FsX0NyaW1l&lang=1&start=true
+UNIVERSAL COMEDY,universalcomedy.png,https://nebunexa.co/cvatt.php?get=VW5pdmVyc2FsX0NvbWVkeQ==&lang=1&start=true
+UNIVERSAL REALITY,universalreality.png,https://nebunexa.co/cvatt.php?get=VW5pdmVyc2FsX1JlYWxpdHk=&lang=1&start=true
+UNIVERSAL PREMIER,universalpremiere.png,https://nebunexa.co/cvatt.php?get=VW5pdmVyc2FsX1ByZW1pZXJl&lang=1&start=true
 FX,fx.png,https://zzcointv.xyz/html/cvatt.html?get=RlhIRA==
 WARNER,warner.png,https://zzcointv.xyz/html/cvatt.html?get=V2FybmVySEQ=
 STUDIO UNIVERSAL,studio.png,https://zzcointv.xyz/html/cvatt.html?get=U3R1ZGlvX1VuaXZlcnNhbA==
