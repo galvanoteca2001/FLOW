@@ -30,8 +30,7 @@ CINECANAL ,https://i.ibb.co/6RtbCVYt/cinecanal.png,https://canalesonline.netlify
 CINEMAX ,https://i.ibb.co/RGYqhbzp/cinemax.png,https://canalesonline.netlify.app/servidores/cvatt.html?get=Q2luZW1heA==&lang=1&start=true
 SPACE ,https://i.ibb.co/0pY4PNct/space.png,https://canalesonline.netlify.app/servidores/cvatt.html?get=U3BhY2U=&lang=1&start=true
 AMC ,https://i.ibb.co/kkf3pWT/amc.png,https://canalesonline.netlify.app/servidores/cvatt.html?get=QU1D&lang=1&start=true
-AMC 2,https://i.ibb.co/1fcM5S01/amc2.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://d38fxgxhpllpfu.cloudfront.net/playlist.m3u8
-FMH Movies,https://i.ibb.co/chM9Zx77/fmhmovies.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://live-zlr1.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8
+AMC 2 ("The Walking Dead"),https://i.ibb.co/1fcM5S01/amc2.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://d38fxgxhpllpfu.cloudfront.net/playlist.m3u8
 USA NETWORK,https://i.ibb.co/235d9tNm/usa.png,https://canalesonline.netlify.app/servidores/cvatt.html?get=VVNBX05ldHdvcms=&lang=1&start=true
 AXN ,https://i.ibb.co/MxPgzRxb/axn.png,https://canalesonline.netlify.app/servidores/cvatt.html?get=QVhOSEQ=&lang=1&start=true
 FX ,https://i.ibb.co/Txfz0vj3/fx.png,https://canalesonline.netlify.app/servidores/cvatt.html?get=RlhIRA==&lang=1&start=true
@@ -42,6 +41,18 @@ SONY CHANNEL ,https://i.ibb.co/RGnqjj4t/sony.png,https://canalesonline.netlify.a
 TCM ,https://i.ibb.co/7JKgtBgX/tcm.png,https://canalesonline.netlify.app/servidores/cvatt.html?get=VENN&lang=1&start=true
 CINEAR,https://i.ibb.co/vxKDZ9DW/cinear.png,https://canalesonline.netlify.app/servidores/cvatt.html?get=SU5DQUFfVHY=&lang=1&start=true
 PARAMOUNT,https://i.ibb.co/F41BChmw/paramount.png,https://canalesonline.netlify.app/servidores/cvatt.html?get=UGFyYW1vdW50&lang=1&start=true
+SONY MOVIES,https://i.ibb.co/r2CKQwWY/sonymovies.png,https://canalesonline.netlify.app/servidores/cvatt.html?get=U29ueV9Nb3ZpZXM=&lang=1&start=true
+SOLUCION TV,https://i.ibb.co/qFsK03Cp/soluciontv.png,https://canalesonline.netlify.app/servidores/vaughn.html?stream=Drmedia
+TERROR MANIA,https://i.ibb.co/0pnffzyp/terrormania.png,https://canalesonline.netlify.app/servidores/vaughn.html?stream=Terror_mania
+CINE PREMIUM,https://i.ibb.co/WWJLMdMR/cinepremium.png,https://canalesonline.netlify.app/servidores/sensa.html?id=CinePremium
+CINE HISPANO,https://i.ibb.co/wh170BGG/cinehispano.png,https://canalesonline.netlify.app/servidores/sensa.html?id=CineHispano
+CINE FAMILIAR,https://i.ibb.co/3mNQWxqW/cinefamiliar.png,https://canalesonline.netlify.app/servidores/sensa.html?id=CineFamiliar
+NEO TV,https://i.ibb.co/mFT2dcxg/neotv.png,https://canalesonline.netlify.app/servidores/m3u8.html?stream=Neo_TV
+GOLDEN PREMIER,https://i.ibb.co/RMWPPx1/goldenpremier.png,https://telegratuita.com/repro/?r=L3YxeC9wbGF5ZXIucGhwP2lkPWFkc3R4VjI2cWd5SmFHNVo=&lang=1&start=true
+GOLDEN PLUS,https://i.ibb.co/xtBQzQdf/goldenplus.png,https://telegratuita.com/repro/?r=L3YxeC9wbGF5ZXIucGhwP2lkPWFkc3RaTFE5YVBMTGEwcFc=&lang=1&start=true
+GOLDEN EDGE,https://i.ibb.co/r2jCCqjr/goldenedge.png,https://telegratuita.com/repro/?r=L3YxeC9wbGF5ZXIucGhwP2lkPWFkc3RrbHg3cW15QnE0QnA=&lang=1&start=true
+SONY CINE,https://i.ibb.co/3Y0zYXDf/sonycine.png,https://canalesonline.netlify.app/servidores/m3u8.html?stream=Sony_Cine1
+FMH Movies,https://i.ibb.co/chM9Zx77/fmhmovies.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://live-zlr1.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8
 HBO,https://i.ibb.co/d0jzs7R4/hbo.png,https://canalesonline.netlify.app/servidores/cvatt.html?get=SEJPSEQ=&lang=1&start=true
 HBO 2,https://i.ibb.co/N277vfSp/hbo2.png,https://canalesonline.netlify.app/servidores/cvatt.html?get=SEJPXzI=&lang=1&start=true
 HBO PLUS,https://i.ibb.co/1Y4zyNXb/hboplus.png,https://canalesonline.netlify.app/servidores/cvatt.html?get=SEJPX1BsdXM=&lang=1&start=true
@@ -56,17 +67,6 @@ UNIVERSAL CRIME,https://i.ibb.co/spKxth1r/universalcrime.png,https://canalesonli
 UNIVERSAL COMEDY,https://i.ibb.co/20DwyJJ2/universalcomedy.png,https://canalesonline.netlify.app/servidores/cvatt.html?get=VW5pdmVyc2FsX0NvbWVkeQ==&lang=1&start=true
 UNIVERSAL REALITY,https://i.ibb.co/3yGzcm37/universalreality.png,https://canalesonline.netlify.app/servidores/cvatt.html?get=VW5pdmVyc2FsX1JlYWxpdHk=&lang=1&start=true
 UNIVERSAL PREMIER,https://i.ibb.co/P8b80dN/universalpremiere.png,https://canalesonline.netlify.app/servidores/cvatt.html?get=VW5pdmVyc2FsX1ByZW1pZXJl&lang=1&start=true
-SONY MOVIES,https://i.ibb.co/r2CKQwWY/sonymovies.png,https://canalesonline.netlify.app/servidores/cvatt.html?get=U29ueV9Nb3ZpZXM=&lang=1&start=true
-SOLUCION TV,https://i.ibb.co/qFsK03Cp/soluciontv.png,https://canalesonline.netlify.app/servidores/vaughn.html?stream=Drmedia
-TERROR MANIA,https://i.ibb.co/0pnffzyp/terrormania.png,https://canalesonline.netlify.app/servidores/vaughn.html?stream=Terror_mania
-CINE PREMIUM,https://i.ibb.co/WWJLMdMR/cinepremium.png,https://canalesonline.netlify.app/servidores/sensa.html?id=CinePremium
-CINE HISPANO,https://i.ibb.co/wh170BGG/cinehispano.png,https://canalesonline.netlify.app/servidores/sensa.html?id=CineHispano
-CINE FAMILIAR,https://i.ibb.co/3mNQWxqW/cinefamiliar.png,https://canalesonline.netlify.app/servidores/sensa.html?id=CineFamiliar
-NEO TV,https://i.ibb.co/mFT2dcxg/neotv.png,https://canalesonline.netlify.app/servidores/m3u8.html?stream=Neo_TV
-GOLDEN PREMIER,https://i.ibb.co/RMWPPx1/goldenpremier.png,https://telegratuita.com/repro/?r=L3YxeC9wbGF5ZXIucGhwP2lkPWFkc3R4VjI2cWd5SmFHNVo=&lang=1&start=true
-GOLDEN PLUS,https://i.ibb.co/xtBQzQdf/goldenplus.png,https://telegratuita.com/repro/?r=L3YxeC9wbGF5ZXIucGhwP2lkPWFkc3RaTFE5YVBMTGEwcFc=&lang=1&start=true
-GOLDEN EDGE,https://i.ibb.co/r2jCCqjr/goldenedge.png,https://telegratuita.com/repro/?r=L3YxeC9wbGF5ZXIucGhwP2lkPWFkc3RrbHg3cW15QnE0QnA=&lang=1&start=true
-SONY CINE,https://i.ibb.co/3Y0zYXDf/sonycine.png,https://canalesonline.netlify.app/servidores/m3u8.html?stream=Sony_Cine1
 SONY COMPETENCIAS,https://i.ibb.co/1JbYr8vZ/competencias.png,https://canalesonline.netlify.app/servidores/m3u8.html?stream=SONY_COMPETENCIAS
 SONY NOVELAS,https://i.ibb.co/tPHvSM3N/sonynovelas.png,https://canalesonline.netlify.app/servidores/m3u8.html?stream=SONY_NOVELAS
 TNT NOVELAS,https://i.ibb.co/MDJ2YZ2X/tntnovelas.png,https://canalesonline.netlify.app/servidores/cvatt.html?get=VEJT&lang=1&start=true
