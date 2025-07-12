@@ -1,5 +1,11 @@
-TELEFE,https://i.ibb.co/rfwh6gSL/telefe.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1751808871~exp=1751816071~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=3a1e981f972d6fe43da9a456cc55989009d061f509e696e254b02729ae6af75b
-EL TRECE,https://i.ibb.co/KjSfpymR/eltrece.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+26,https://i.ibb.co/VWVbXMqt/canal26.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+TELEFE,https://i.ibb.co/rfwh6gSL/telefe.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+EL TRECE,https://i.ibb.co/KjSfpymR/eltrece.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
+NET TV,https://i.ibb.co/BV4BDtJ5/nettv.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+CIUDAD MAGAZINE,https://i.ibb.co/fYSdXBJt/ciudad.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+Argentinisima Satelital,https://i.ibb.co/BV8RZM1y/arsat.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://stream1.sersat.com/hls/argentinisima.m3u8
+Telemax,https://i.ibb.co/XcnKZ49/telemax.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+DW,https://i.ibb.co/9kSG9QZG/dw.png,chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 BIG BANG THEORY & TWO AND A HALF MEN,https://i.ibb.co/JjNL1Q3g/bigbangtheory.png,chrome-extension://fjmoemhemaejfjodjgnpkelbdgejnpgd/player.html#https://stream-cdn-iad3.vaughnsoft.net/play/live_cienciaficcion01.flv
 SIMPSON MANIA,https://i.ibb.co/CKzpQywR/simpsonmania.png,chrome-extension://fjmoemhemaejfjodjgnpkelbdgejnpgd/player.html#https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
 FUTURAMA MANIA,https://i.ibb.co/rRqg8c8Y/futuramamania.png,chrome-extension://fjmoemhemaejfjodjgnpkelbdgejnpgd/player.html#https://stream-cdn-iad3.vaughnsoft.net/play/live_futurama_mania_.flv
